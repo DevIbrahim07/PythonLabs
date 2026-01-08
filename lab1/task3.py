@@ -1,0 +1,11 @@
+
+print("*"*20)
+print("*" + " " * 18 + "*")
+print("*" + " " * 18 + "*")
+print("*"*20)
+print("a","b","c")
+print("a","b","c","d",sep="--")
+print("a","b","c","d",end="$")
+print('ABC',end='$')
+print('CDE')
+print('FGH')
