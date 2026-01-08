@@ -7,7 +7,7 @@ If average is greater than or equal to 60 but less than 70 → You are an averag
 If average is greater than or equal to 50 but less than 60 → You are a below-average student.
 If average is greater than or equal to 40 but less than 50 → You are a poor student.
 If average is less than 40→ You need extra ordinary efforts
-Max marks are 100 and you can assume that user will enter valid numbers.
+
 """
 
 
